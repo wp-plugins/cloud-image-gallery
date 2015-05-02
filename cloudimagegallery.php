@@ -4,7 +4,7 @@
 	Plugin Name: Cloud Image gallery
 	Plugin URI: http://digitalbd.net/wp/plugin/cloudimagegallery
 	Description: Cloud Image Gallery is a responsive image gallery.
-	Version: 0.1
+	Version: 1.0.1
 	Author: Md Rukon Shekh
 	Author URI: https://www.odesk.com/o/profiles/users/_~01e2fb69b715750273/
 	License: MIT or later

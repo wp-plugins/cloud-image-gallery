@@ -4,6 +4,7 @@ Tags: gallery, image gallery, plugin, pop-up image gallery, responsive image gal
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=rukon%2einfo%40gmail%2ecom&lc=US&item_name=Webdeveloper&no_note=0¤cy_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Requires at least: 1.0.1
 Tested up to: 4.2.1
+Stable tag: gallery, image gallery, plugin, pop-up image gallery, responsive image gallery.
 
 Cloud image gallery is nice image gallery plugin.it is full responsive. it has 9 themes , Options page, custom css and more. please visit our demo page.
 

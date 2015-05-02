@@ -8,35 +8,48 @@ Tested up to: 4.2.1
 Cloud image gallery is nice image gallery plugin.it is full responsive. it has 9 themes , Options page, custom css and more. please visit our demo page.
 
 == Description ==
-Cloud image gallery is nice image gallery plugin.it is full responsive. it has 9 themes , Options page, custom css and more. please visit our demo page.
-Features
-* Responsive
-* 9 Themes
-* Shortcode
-* Shortcode with category selector
-* Options page
-* full customizable
-* Custom css box
-* Dragable
-* Unlimited Image Upload
-* Pop-up Image box with image caption.
-* Nice animations
-* Auto play image gallery.
-and more..
-Please visit our demo page.
+<h4><a href="http://plugin.digitalbd.net/doc/cloudimagegallery/">Full documentaction here</a></h4>
+<p>
+Cloud image gallery is nice image gallery plugin.it is full responsive. it has 9 themes , Options page, custom css and more. please visit <a href="http://plugin.digitalbd.net/cloud-image-gallery/">our demo page.</a>
+</p>
 
+<h4>Features</h4>
+<ul>
+	
+
+	<li><strong>Responsive</strong></li>
+	<li><strong>9 Themes</strong></li>
+	<li><strong>Shortcode</strong></li>
+	<li><strong>Shortcode with category selector</strong></li>
+	<li><strong>Options page</strong></li>
+	<li><strong>full customizable</strong></li>
+	<li><strong>Custom css box</strong></li>
+	<li><strong>Dragable</strong></li>
+	<li><strong>Unlimited Image Upload</strong></li>
+	<li><strong>Pop-up Image box with image caption.</strong></li>
+	<li><strong>Nice animations</strong></li>
+	<li><strong>Auto play image gallery.</strong></li>
+</ul>
+<hr>
+<h4><strong>User By shortcode in your page or post</strong></h4>
+<code>
+[cigallery] 
+</code>
+and more..
+<a href="http://plugin.digitalbd.net/cloud-image-gallery/">Please visit our demo page.</a>
+<h4><a href="http://plugin.digitalbd.net/doc/cloudimagegallery/">Full documentaction here</a></h4>
 == Installation ==
- Installing Through Dashboard:
+ <strong>Installing Through Dashboard:</strong>
 
     Go to Plugins -> Add New -> Upload
     Choose the installable ZIP file (that you have download in your computer from wordpress.org) Upload that file.
     Now, click on activate link to activate the plugin.
 
  
-Note : After install complte please go  to the settings menu and click the \"Save\" Button
+<strong>Note : After install complte please go  to the settings menu and click the \"Save\" Button
 1 Cloud Gallery > Settings
- 
-Installing Through FTP:
+ </strong>
+<strong>Installing Through FTP:</strong>
 
     Extract the installable ZIP file (that you have download in your computer from wordpress.org) Upload the extracted folder into wp-content/plugins directory.
     Activate the plugin through the \'Plugins\' menu in WordPress.

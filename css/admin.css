@@ -1,0 +1,20 @@
+.postbox.cg_wraper{
+	border-radius: 5px;
+	margin: 0 auto;
+	max-width: 960px;
+	overflow: hidden;
+	padding-top: 0; 
+}
+.cg_heading{
+	background: none repeat scroll 0 0 #0074a2;
+	color: #fff;
+	font-size: 21px;
+	font-weight: 700;
+	margin: 0;
+	padding: 20px 30px;
+	text-align: left;
+	text-transform: uppercase;
+}
+.cg_form_box{
+	padding:30px;
+}

@@ -1,0 +1,131 @@
+ul.photopile li a {
+  -webkit-box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
+  -o-box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
+  -ms-box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
+}
+.photopile-wrapper {
+  padding: 60px 40px 22px;
+}
+
+/*
+	Themes
+*/
+/*
+	turquoise
+*/
+.turquoise .photopile-wrapper{}
+.turquoise ul.photopile li a{
+	background: none repeat scroll 0 0 #02ba96;
+	border-color: #22dab6;
+}
+.turquoise ul.photopile li a:hover{}
+.turquoise div#photopile-active-image-container,
+.turquoise ul.photopile li a img{
+	border-color: #22dab6;
+}
+/*
+	Emerald
+*/
+.emerald .photopile-wrapper{}
+.emerald ul.photopile li a{
+	background: none repeat scroll 0 0 #02CB65;
+	border-color: #29F28C;
+}
+.emerald ul.photopile li a:hover{}
+.emerald div#photopile-active-image-container,
+.emerald ul.photopile li a img{
+	border-color: #29F28C;
+}
+/*
+	Nephritis
+*/
+.nephritis .photopile-wrapper{}
+.nephritis ul.photopile li a{
+	background: none repeat scroll 0 0 #00ac56;
+	border-color: #23cf79;
+}
+.nephritis ul.photopile li a:hover{}
+.nephritis div#photopile-active-image-container,
+.nephritis ul.photopile li a img{
+	border-color: #23cf79;
+}
+/*
+	Green sea
+*/
+.greensea .photopile-wrapper{}
+.greensea ul.photopile li a{
+	background: none repeat scroll 0 0 #019E7F;
+	border-color: #17B495;
+}
+.greensea ul.photopile li a:hover{}
+.greensea div#photopile-active-image-container,
+.greensea ul.photopile li a img{
+	border-color: #17B495;
+}
+/*
+	peter river
+*/
+.peterriver .photopile-wrapper{}
+.peterriver ul.photopile li a{
+	background: none repeat scroll 0 0 #0295D8;
+	border-color: #24B7FA;
+}
+.peterriver ul.photopile li a:hover{}
+.peterriver div#photopile-active-image-container,
+.peterriver ul.photopile li a img{
+	border-color: #24B7FA;
+}
+/*
+	Amethyst
+*/
+.amethyst .photopile-wrapper{}
+.amethyst ul.photopile li a{
+	background: none repeat scroll 0 0 #AE57B5;
+	border-color: #A141AB;
+}
+.amethyst ul.photopile li a:hover{}
+.amethyst div#photopile-active-image-container,
+.amethyst ul.photopile li a img{
+	border-color: #A141AB;
+}
+/*
+	Alizarin
+*/
+.alizarin .photopile-wrapper{}
+.alizarin ul.photopile li a{
+	background: none repeat scroll 0 0 #FC4837;
+	border-color: #DF3423;
+}
+.alizarin ul.photopile li a:hover{}
+.alizarin div#photopile-active-image-container,
+.alizarin ul.photopile li a img{
+	border-color: #DF3423;
+}
+/*
+	Concrete
+*/
+.concrete .photopile-wrapper{}
+.concrete ul.photopile li a{
+	background: none repeat scroll 0 0 #91A5A3;
+	border-color: #BEC2C5;
+}
+.concrete ul.photopile li a:hover{}
+.concrete div#photopile-active-image-container,
+.concrete ul.photopile li a img{
+	border-color: #BEC2C5;
+}
+/*
+	Wet asphalt
+*/
+.wetasphalt .photopile-wrapper{}
+.wetasphalt ul.photopile li a{
+	background: none repeat scroll 0 0 #27465A;
+	border-color: #203A4B;
+}
+.wetasphalt ul.photopile li a:hover{}
+.wetasphalt div#photopile-active-image-container,
+.wetasphalt ul.photopile li a img{
+	border-color: #203A4B;
+}

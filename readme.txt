@@ -1,5 +1,5 @@
 === Cloud Image Gallery ===
-Contributors: rukon
+Contributors: rukon,rukon
 Tags: gallery, image gallery, plugin, pop-up image gallery, responsive image gallery, image,creative image gallery
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=rukon%2einfo%40gmail%2ecom&lc=US&item_name=Webdeveloper&no_note=0¤cy_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Requires at least: 1.0.1
@@ -10,14 +10,13 @@ Cloud image gallery is nice image gallery plugin.it is full responsive. it has 9
 
 == Description ==
 <h4><a href="http://plugin.digitalbd.net/doc/cloudimagegallery/">Full documentaction here</a></h4>
+<h4><a href="http://plugin.digitalbd.net/cloud-image-gallery/">Live Demo</a></h4>
 <p>
 Cloud image gallery is nice image gallery plugin.it is full responsive. it has 9 themes , Options page, custom css and more. please visit <a href="http://plugin.digitalbd.net/cloud-image-gallery/">our demo page.</a>
 </p>
 
 <h4>Features</h4>
 <ul>
-	
-
 	<li><strong>Responsive</strong></li>
 	<li><strong>9 Themes</strong></li>
 	<li><strong>Shortcode</strong></li>

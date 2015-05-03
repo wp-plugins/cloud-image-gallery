@@ -41,19 +41,26 @@ and more..
 <h4><a href="http://plugin.digitalbd.net/doc/cloudimagegallery/">Full documentaction here</a></h4>
 == Installation ==
  <strong>Installing Through Dashboard:</strong>
-
-    Go to Plugins -> Add New -> Upload
-    Choose the installable ZIP file (that you have download in your computer from wordpress.org) Upload that file.
-    Now, click on activate link to activate the plugin.
+ <ol>
+ 	<li>Go to Plugins -> Add New -> Upload</li>
+ 	<li>Choose the installable ZIP file (that you have download in your computer from wordpress.org) Upload that file.</li>
+ 	<li>Now, click on activate link to activate the plugin.</li>
+ </ol>
+    
+    
+    
 
  
 <strong>Note : After install complte please go  to the settings menu and click the \"Save\" Button
 1 Cloud Gallery > Settings
  </strong>
 <strong>Installing Through FTP:</strong>
-
-    Extract the installable ZIP file (that you have download in your computer from wordpress.org) Upload the extracted folder into wp-content/plugins directory.
-    Activate the plugin through the \'Plugins\' menu in WordPress.
+<ol>
+	<li>Extract the installable ZIP file (that you have download in your computer from wordpress.org) Upload the extracted folder into wp-content/plugins directory.</li>
+	<li> Activate the plugin through the \'Plugins\' menu in WordPress.</li>
+</ol>
+    
+   
 
  
 Note : After install complte please go  to the settings menu and click the \"Save\" Button

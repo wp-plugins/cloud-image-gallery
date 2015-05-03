@@ -1,5 +1,5 @@
 === Cloud Image Gallery ===
-Contributors: rukon,rukon
+Contributors: rukon
 Tags: gallery, image gallery, plugin, pop-up image gallery, responsive image gallery, image,creative image gallery
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=rukon%2einfo%40gmail%2ecom&lc=US&item_name=Webdeveloper&no_note=0¤cy_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Requires at least: 1.0.1
